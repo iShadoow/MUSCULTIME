@@ -1,0 +1,44 @@
+@font-face { 
+    font-family: 'Blacklisted';
+    src: url('Blacklisted.ttf');
+    src: url('Blacklisted.ttf') format('truetype'),
+         
+}
+
+
+h1
+{
+color: #B9C1C0;
+font-family:"Blacklisted";
+font-size: 50px
+
+}
+
+h2 
+{
+    color: #0c7fb0;
+	text-align:center
+}
+
+p 
+{
+    color: #FFFFFF;
+    font-family:"Comic Sans MS";
+    font-size: 20px;
+}
+body
+{
+margin-right:45;
+padding:50;
+}
+
+body 
+{
+  background-color: #000000
+}
+
+.flottant
+{
+float: right;
+}
+
